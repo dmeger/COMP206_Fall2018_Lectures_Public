@@ -59,7 +59,7 @@ There is no required book for this course. Provided course notes and slides will
 1. The C Programming Language, 2nd Edition by Kernighan and Ritchie. ISBN: 01311036282.
 2. Software Systems by Vybihal and Azar. ISBN: 978-0-7575-5727-9
 3. Learning the Unix Operating System by Jerry Peek, John Strang, and Grace Todino
-4.C for Java Programmers by Tomas’s Muldner. ISBN: 0201702797
+4. C for Java Programmers by Tomas’s Muldner. ISBN: 0201702797
 
 # Diversity and Inclusion
 
