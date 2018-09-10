@@ -37,7 +37,7 @@ COMP 206 - Software Systems is a course that teaches important aspects of low-le
 
 ## Instructor Info
 David Meger: Office McConnell Engineering 112 N (north wing)  
-Office hours: Wednesdays 1pm - 2:30pm and Fridays 9:30am - 11am
+Office hours: Wednesdays 1pm - 2:30pm and Fridays 9:30am - 11am  
 Email: david.meger@mcgill.ca (please try My Courses Discussion first for Assignment queries)  
 
 ## Teaching Assistants
