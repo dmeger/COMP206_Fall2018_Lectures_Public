@@ -37,11 +37,25 @@ COMP 206 - Software Systems is a course that teaches important aspects of low-le
 
 ## Instructor Info
 David Meger: Office McConnell Engineering 112 N (north wing)  
-Office hours: To be decided soon  
+Office hours: Wednesdays 1pm - 2:30pm and Fridays 9:30am - 11am
 Email: david.meger@mcgill.ca (please try My Courses Discussion first for Assignment queries)  
 
 ## Teaching Assistants
-Coming soon
+
+The TAs will be offering guided tutorial sessions directly targetted to each assignment, as well as weekly office hours. The schedule for both of these will be posted here soon.
+
+When possible, please try to use the My Courses Discussions to ask questions, since there everyone can see the response and share the information. In case you need to mail the TAs directly, they can be reached at:
+- Prabhjot Sandhu: prabhjot.sandhu@mail.mcgill.ca
+- Juan Yao (Justin) Li: juan.y.li@mail.mcgill.ca
+- Vishal Jain: vishal.jain@mail.mcgill.ca
+- Deven Parekh: deven.parekh@mail.mcgill.ca
+- Zhaohui Su: zhaohui.su@mail.mcgill.ca
+- Yuqian Zhao: yuqian.zhao@mail.mcgill.ca
+- Xoey Zhang: xoey.zhang@mail.mcgill.ca
+- Olamilekan Fadahunsi: olamilekan.fadahunsi@mail.mcgill.ca
+- Anirudha Jitani: anirudha.jitani@mail.mcgill.ca
+- Yash Patel: yash.patel@mail.mcgill.ca
+- Aayushi Kulshrestha: aayushi.kulshrestha@mail.mcgill.ca
 
 # Assessment
 - Assignments (5): 40%
@@ -59,7 +73,7 @@ There is no required book for this course. Provided course notes and slides will
 1. The C Programming Language, 2nd Edition by Kernighan and Ritchie. ISBN: 01311036282.
 2. Software Systems by Vybihal and Azar. ISBN: 978-0-7575-5727-9
 3. Learning the Unix Operating System by Jerry Peek, John Strang, and Grace Todino
-4.C for Java Programmers by Tomas’s Muldner. ISBN: 0201702797
+4. C for Java Programmers by Tomas’s Muldner. ISBN: 0201702797
 
 # Diversity and Inclusion
 
