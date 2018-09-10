@@ -7,7 +7,6 @@ This is the course outline for COMP206 in Fall 2018 term. Welcome to the course!
 COMP 206 - Software Systems is a course that teaches important aspects of low-level programming that are crucial to creating pieces of software that an interoperate across different computers, different types of devices, and online across the world. We study these topics conceptually as well as through hands-on creation of software in the C programming language. By the end of the course, you should have a strong ability to program in C generally. More importantly, you should be able to “Think in C”, which is often a helpful way to get insights on the way that operating systems and more recent programming languages work.
 
 # Objectives
-
 - Become familiar with common challenges in creating software systems and best-practice solutions
 - Understand how software runs on the Linux operating system, including the structure of a running process, scheduling,  user and file permission and networking
 - Experience implementing software system elements using C programming language
@@ -41,7 +40,9 @@ Office hours: To be decided soon
 Email: david.meger@mcgill.ca (please try My Courses Discussion first for Assignment queries)  
 
 ## Teaching Assistants
+The TAs will be offering guided tutorial sessions directly targetted to each assignment, as well as weekly office hours. The schedule for both of these will be posted here soon.
 
+When possible, please try to use the My Courses Discussions to ask questions, since there everyone can see the response and share the information. In case you need to mail the TAs directly, they can be reached at:
 - Prabhjot Sandhu: prabhjot.sandhu@mail.mcgill.ca
 - Juan Yao (Justin) Li: juan.y.li@mail.mcgill.ca
 - Vishal Jain: vishal.jain@mail.mcgill.ca
