@@ -41,7 +41,18 @@ Office hours: To be decided soon
 Email: david.meger@mcgill.ca (please try My Courses Discussion first for Assignment queries)  
 
 ## Teaching Assistants
-Coming soon
+
+- Prabhjot Sandhu: prabhjot.sandhu@mail.mcgill.ca
+- Juan Yao (Justin) Li: juan.y.li@mail.mcgill.ca
+- Vishal Jain: vishal.jain@mail.mcgill.ca
+- Deven Parekh: deven.parekh@mail.mcgill.ca
+- Zhaohui Su: zhaohui.su@mail.mcgill.ca
+- Yuqian Zhao: yuqian.zhao@mail.mcgill.ca
+- Xoey Zhang: xoey.zhang@mail.mcgill.ca
+- Olamilekan Fadahunsi: olamilekan.fadahunsi@mail.mcgill.ca
+- Anirudha Jitani: anirudha.jitani@mail.mcgill.ca
+- Yash Patel: yash.patel@mail.mcgill.ca
+- Aayushi Kulshrestha: aayushi.kulshrestha@mail.mcgill.ca
 
 # Assessment
 - Assignments (5): 40%
