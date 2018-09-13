@@ -48,7 +48,7 @@ Current Tutorial Schedule:
 - Tutorial on Linux/Shell with target on Assignment 1:
   - Friday 12:30-2:30pm Trottier 3120.
 
-Office Hours Schedule. Each office hour specified will be given every week in Trottier 3120, until Dec 14th, 2018, except when McGill is closed for official holidays or the election):
+Office Hours Schedule. Each office hour specified will be given every week in Trottier 3090, until Dec 14th, 2018, except when McGill is closed for official holidays or the election):
 
 - Mondays @ 3pm
 - Tuesdays @ 2pm
