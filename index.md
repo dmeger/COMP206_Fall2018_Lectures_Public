@@ -40,7 +40,20 @@ Office hours: Wednesdays 1pm - 2:30pm and Fridays 9:30am - 11am
 Email: david.meger@mcgill.ca (please try My Courses Discussion first for Assignment queries)  
 
 ## Teaching Assistants
-The TAs will be offering guided tutorial sessions directly targetted to each assignment, as well as weekly office hours. The schedule for both of these will be posted here soon.
+The TAs will be offering guided tutorial sessions directly targetted to each assignment, as well as weekly office hours. The tutorial schedule will be updated throughout the term as we schedule more sessions, so check back here to find out the latest.
+
+Current Tutorial Schedule:
+
+- Tutorial on Linux/Shell with target on Assignment 1:
+  - Friday 12:30-2:30pm Trottier 3120.
+
+Office Hours Schedule. Each office hour specified will be given every week in Trottier 3120, until Dec 14th, 2018, except when McGill is closed for official holidays or the election):
+
+- Mondays @ 3pm
+- Tuesdays @ 2pm
+- Wednesdays @ 10am
+- Thursdays @ 10am
+- Fridays @ 1pm
 
 When possible, please try to use the My Courses Discussions to ask questions, since there everyone can see the response and share the information. In case you need to mail the TAs directly, they can be reached at:
 - Prabhjot Sandhu: prabhjot.sandhu@mail.mcgill.ca
