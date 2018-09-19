@@ -31,7 +31,7 @@ COMP 206 - Software Systems is a course that teaches important aspects of low-le
 
 # Term Schedule
 
-![Our course schedule](https://www.cim.mcgill.ca/~dmeger/teaching/COMP206/FALL2018/course_sched.png)
+![Our course schedule](https://www.cim.mcgill.ca/~dmeger/teaching/COMP206/FALL2018/course_sched_updated.png)
 
 # Instructor and TA Information
 
