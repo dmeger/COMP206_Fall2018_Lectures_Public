@@ -14,6 +14,11 @@ int main(){
 
 	// Open a binary bmp file
 	FILE *bmpfile = fopen( "utah.bmp", "rb" );
+	
+	if( bmpfile == NULL ){
+	  printf( "I was unable to open the file utah.bmp.\n" );
+	  return -1;
+	}
 
 	// Read the B and M characters into chars
 	char b, m;
@@ -29,15 +34,17 @@ int main(){
 	fread( &overallFileSize, 1, sizeof(unsigned int), bmpfile );
 	printf( "The size was: %d.\n", overallFileSize );
 
-	// Close the file, re-open it to be at the beginning, and read the entire contents
-	fclose(bmpfile);
-	bmpfile = fopen("utah.bmp", "rb" );
+	// Rewind file pointer to the beginning and read the entire contents.
+	rewind(bmpfile);
 
 	char imageData[overallFileSize];
-	fread( imageData, 1, overallFileSize, bmpfile );
+	if( fread( imageData, 1, overallFileSize, bmpfile ) != overallFileSize ){
+	  printf( "I was unable to read the requested %d bytes.\n", overallFileSize );
+	  return -1;
+	}
      
 	// Read the width size into unsigned int (hope = 500 since this is the width of utah.bmp)
-        unsigned int* wp = (unsigned int*)(imageData+18);
+  unsigned int* wp = (unsigned int*)(imageData+18);
 	unsigned int width = *wp;
 
 	// Print the width size to terminal	
@@ -45,3 +52,4 @@ int main(){
 	
 	return 0;
 }
+
