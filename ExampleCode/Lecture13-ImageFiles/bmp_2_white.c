@@ -16,6 +16,11 @@ int main(){
 	  return -1;
 	}
 
+	char b, m;
+	fread( &b, 1, 1, bmpfile );
+	fread( &m, 1, 1, bmpfile );
+	
+
 	// Read the overall file size 
 	unsigned int overallFileSize;
 	fread( &overallFileSize, 1, sizeof(unsigned int), bmpfile );
@@ -44,7 +49,7 @@ int main(){
 	// For A3, you will need a more sophisticated way of managing 
 	// the image data.
 	for( int pixel=0; pixel< overallFileSize-offset; pixel++ )
-		pixel_data[pixel] = 255;
+		pixel_data[pixel] = pixel;
 
 	// Time to output, just dump the binary data, inverse of reading.
 	FILE* out_file = fopen( "utah_white.bmp", "wb" );
