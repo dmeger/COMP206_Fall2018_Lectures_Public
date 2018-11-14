@@ -1,0 +1,10 @@
+Parts of this example were started from open source code, here:
+https://sourceforge.net/projects/tinyhttpd/
+It has been modified by David Meger to make it fit COMP 206 
+well. However, almost all of the credit goes to the original 
+author, and here is his open-source license information:
+
+This software is copyright 1999 by J. David Blackstone.  Permission
+is granted to redistribute and modify this software under the terms of
+the GNU General Public License, available at http://www.gnu.org/ .
+
