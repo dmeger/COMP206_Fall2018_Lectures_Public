@@ -30,7 +30,7 @@ int main(int argc , char *argv[])
 	}
 	puts("Socket created");
 	
-	server.sin_addr.s_addr = inet_addr( argv[1] );
+	server.sin_addr.s_addr = inet_addr( addr );
 	server.sin_family = AF_INET;
 	server.sin_port = htons( port );
 
